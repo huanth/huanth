@@ -8,7 +8,7 @@
 
 <p align="center"> 
   <samp>
-    <a href="#">「 Donate Me 」</a>
+    <a href="https://donate.nauhyuh.com/">「 Donate Me 」</a>
     <br>
     「 I am a full stack web application developer from <b><a href="https://onextdigital.com/">ONextDigital</a></b> 」
     <br>
